@@ -7,7 +7,7 @@
 - <h2 align="left">About us</h2>
 
 ###
--  <p align="left">✨ Currently the personnel is able only develop frontend of sites,<br>📚 But we are constantly striving to move forward and do better<br>🎯 Goals: We aspire to learn more and more, understand the world of 1's and 0's and hope to achieve knowledge and fame<br>The current personnel includes [Shahid](https://github.com/Shahid-Rashid) and [Inayat](https://github.com/inayatbakshi46/)<br> Contact us through our [email](magitech19@gmail.com) or through our [portfolio-site](https://magi-tech.vercel.app/)</p>
+-  <p align="left">✨ Currently the personnel is able only develop frontend of sites,<br>- 📚 But we are constantly striving to move forward and do better<br>- 🎯 Goals: We aspire to learn more and more, understand the world of 1's and 0's and hope to achieve knowledge and fame<br>- 👩‍💻 The current personnel includes [Shahid](https://github.com/Shahid-Rashid) and [Inayat](https://github.com/inayatbakshi46/)<br>- ☎️ Contact us through our [email](magitech19@gmail.com) or through our [portfolio-site](https://magi-tech.vercel.app/)</p>
 
 ###
 <h2 align="left">We code with</h2>
